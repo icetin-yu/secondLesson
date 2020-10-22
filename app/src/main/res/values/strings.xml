@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firstApp</string>
+    <string name="send">Send</string>
+    <string name="back">Back</string>
+    <string name="hello">Hello</string>
+    <string name="your_name">Your Name</string>
+    <string name="welvome_first">Welcome to my first app</string>
+
+</resources>
